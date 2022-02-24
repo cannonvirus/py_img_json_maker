@@ -1,0 +1,3 @@
+input_path: /works/cpp_undistort_video/output/
+output_path: "/data/EdgeFarm_pig/weight_labeling"
+capture_per_frame: 60
